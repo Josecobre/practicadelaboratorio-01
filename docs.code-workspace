@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../teoria/AEW_T1BL_2023_Nombre_Apellido/Pregunta04/docs"
+		},
+		{
+			"path": "../../../teoria/AEW_T1BL_2023_Nombre_Apellido/Pregunta04/imagenes"
+		},
+		{
+			"path": "../../../teoria/AEW_T1BL_2023_Nombre_Apellido/Pregunta04/paginas"
+		},
+		{
+			"path": "../../../teoria/AEW_T1BL_2023_Nombre_Apellido/Pregunta04/css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "paginas"
+	}
+}

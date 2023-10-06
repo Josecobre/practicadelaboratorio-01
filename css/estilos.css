@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+}
+div img {
+    text-align: center;
+    justify-content: center;
+}
+span {
+     background-color: yellow;
+}
+p {
+    text-align: justify;
+}
